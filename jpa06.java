@@ -10,6 +10,7 @@ public class jpa06 {
             break;
         }
         System.out.println(Math.pow(n2,n1));
-    }
+        a.close();
+        }
 }
 }
